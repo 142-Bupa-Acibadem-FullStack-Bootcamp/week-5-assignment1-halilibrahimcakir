@@ -1,0 +1,12 @@
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\bin\Debug\net5.0\Northwind.Models.deps.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\bin\Debug\net5.0\Northwind.Models.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\bin\Debug\net5.0\ref\Northwind.Models.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\bin\Debug\net5.0\Northwind.Models.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.csproj.AssemblyReference.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.AssemblyInfoInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.AssemblyInfo.cs
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.csproj.CoreCompileInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\ref\Northwind.Models.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Models\obj\Debug\net5.0\Northwind.Models.pdb

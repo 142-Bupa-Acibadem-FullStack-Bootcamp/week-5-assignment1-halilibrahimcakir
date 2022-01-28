@@ -1,0 +1,12 @@
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\bin\Debug\net5.0\Northwind.Business.deps.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\bin\Debug\net5.0\Northwind.Business.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\bin\Debug\net5.0\ref\Northwind.Business.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\bin\Debug\net5.0\Northwind.Business.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.csproj.AssemblyReference.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.AssemblyInfoInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.AssemblyInfo.cs
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\ref\Northwind.Business.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Business\obj\Debug\net5.0\Northwind.Business.pdb

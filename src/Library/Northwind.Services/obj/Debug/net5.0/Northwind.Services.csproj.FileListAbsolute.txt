@@ -1,0 +1,17 @@
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.csproj.AssemblyReference.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.AssemblyInfoInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.AssemblyInfo.cs
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.csproj.CoreCompileInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Services.deps.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Services.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\ref\Northwind.Services.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Services.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Data.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Models.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Data.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\bin\Debug\net5.0\Northwind.Models.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.csproj.CopyComplete
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\ref\Northwind.Services.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Services\obj\Debug\net5.0\Northwind.Services.pdb

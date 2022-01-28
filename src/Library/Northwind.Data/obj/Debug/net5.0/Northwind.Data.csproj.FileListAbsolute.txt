@@ -1,0 +1,15 @@
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\Northwind.Data.deps.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\Northwind.Data.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\ref\Northwind.Data.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\Northwind.Data.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.csproj.AssemblyReference.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.AssemblyInfoInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.AssemblyInfo.cs
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.csproj.CoreCompileInputs.cache
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\ref\Northwind.Data.dll
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.pdb
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\Northwind.Data.runtimeconfig.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\bin\Debug\net5.0\Northwind.Data.runtimeconfig.dev.json
+C:\Sandbox\First-Assignment-halilibrahimcakir\src\Library\Northwind.Data\obj\Debug\net5.0\Northwind.Data.genruntimeconfig.cache
